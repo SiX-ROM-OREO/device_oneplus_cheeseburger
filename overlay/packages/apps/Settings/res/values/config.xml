@@ -27,4 +27,7 @@
 
   <!-- Whether to enable "show operator name in the status bar" setting -->
   <bool name="config_showOperatorNameInStatusBar">true</bool>
+
+    <!-- Bluetooth on first boot -->
+	<bool name="def_bluetooth_on">true</bool>
 </resources>

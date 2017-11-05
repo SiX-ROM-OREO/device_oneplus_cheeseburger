@@ -24,7 +24,7 @@ $(call inherit-product, device/oneplus/cheeseburger/device.mk)
 # Inherit some common GZOSP stuff.
 $(call inherit-product, vendor/gzosp/config/common_full_phone.mk)
 
-PRODUCT_NAME := gzosp_cheeseburger
+PRODUCT_NAME := six_cheeseburger
 PRODUCT_DEVICE := cheeseburger
 PRODUCT_MANUFACTURER := OnePlus
 PRODUCT_BRAND := OnePlus
